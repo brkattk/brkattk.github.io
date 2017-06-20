@@ -1,5 +1,5 @@
 ---
-title: Using Charles Proxy to Debug Android SSL Traffic
+title: Using a Charles Proxy to Debug Android SSL Traffic
 excerpt: "From time to time, I need to be able to view request headers and response bodies triggered by our Android apps to and from our back-end servers."
 modified: 2017-06-19
 categories: Blog
@@ -9,7 +9,7 @@ header:
   image: "/assets/images/charles-proxy.jpg"
 ---
 
-I've been a longtime user of [Charles](https://www.charlesproxy.com/) for checking requests and responses from the web applications I write.
+I've been a longtime user of [Charles](https://www.charlesproxy.com/) for checking requests and responses from the web applications I write. It's a great cross-platform tool to help debug any kind of HTTP request when developing applications locally.
 
 Charles as described on its site:
 
