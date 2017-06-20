@@ -39,7 +39,7 @@ Specifying the `res/xml/network_security_config.xml` file:
 
 ### Setting Up Charles
 
-Open up Charles on your Mac and then open `Proxy > Proxy Settings` from the toolbar. You'll need to make note of the HTTP Proxy Port that is specified.
+Open up Charles on your computer and then open `Proxy > Proxy Settings` from the toolbar. You'll need to make note of the HTTP Proxy Port that is specified.
 
 <img src="/assets/images/charles-proxy-settings.png" alt="Charles - Proxy > Proxy Settings" />
 
@@ -49,9 +49,9 @@ Then open up `Proxy > SSL Proxying Settings` from the toolbar and add the approp
 
 ### Setting Up Your Android device
 
-First, make note of your Mac's IP address within your local network. You'll need it in the next step.
+First, make note of your computer's IP address within your local network. You'll need it in the next step.
 
-Also make sure Charles is open and that the Mac is on the same wifi network as the Android device you'll be setting up.
+Also make sure Charles is open and that the computer is on the same wifi network as the Android device you'll be setting up.
 
 Go to your device's settings and wifi configuration.
 
@@ -61,7 +61,7 @@ Then check `Advanced Options` and scroll until you see `Proxy`.
 
 Tap the `Proxy` dropdown and select `Manual`.
 
-For the `Proxy hostname` input your Mac's IP address that you noted above.
+For the `Proxy hostname` input your computer's IP address that you noted above.
 
 Then for the `Proxy port` use the HTTP Proxy Port that you noted from Charles' Proxy Settings from above.
 
@@ -69,7 +69,7 @@ Tap `Save`.
 
 <img src="/assets/images/charles-android-device-network-config.png" alt="Android device network config" />
 
-After saving, you may notice a pop-up on your mac like this:
+After saving, you may notice a pop-up on your computer like this:
 
 <img src="/assets/images/charles-allow-device-connection.png" alt="Allow device connection within Charles" />
 
