@@ -1,7 +1,11 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Erik Straub is a father, husband, and developer. He is a Software Engineer and Chief Emoji Officer for Odd Networks."
+header:
+  overlay_image: "/assets/images/mason-lake-header.jpg"
+  overlay_filter: 0.5
+  overlay_title: false
+  caption: "[Adirondack Mountains, New York](https://goo.gl/maps/9CitQJwkaSK2)"
 gallery:
   - url: http://erikstraub.com/assets/images/nyc.jpg
     image_path: /assets/images/nyc-th.jpg
@@ -12,9 +16,6 @@ gallery:
   - url: http://erikstraub.com/assets/images/clearwater-beach.jpg
     image_path: /assets/images/clearwater-beach-th.jpg
     alt: "Us in Clearwater Beach"
-  - url: http://erikstraub.com/assets/images/mason-lake.jpg
-    image_path: /assets/images/mason-lake-th.jpg
-    alt: "The summer getaway"
   - url: http://erikstraub.com/assets/images/riot-fest.jpg
     image_path: /assets/images/riot-fest-th.jpg
     alt: "Us in Denver"

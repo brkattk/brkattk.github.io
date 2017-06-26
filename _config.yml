@@ -83,7 +83,7 @@ analytics:
 author:
   name             : *name
   avatar           : "/assets/images/erik-straub.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : Father, husband, developer. Software Engineer &amp; Chief Emoji Officer at <a href="http://oddnetworks.com">Odd Networks</a>
+  bio              : Software Engineer &amp; Chief Emoji Officer at <a href="http://oddnetworks.com">Odd Networks</a>
   location         : "Upstate New York"
   email            : "hi@erikstraub.com"
   uri              :
